@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+
 body{
     font-family: 'poppins';
 }
@@ -302,13 +303,13 @@ hr{
 .end_font{
     font-size: 60px;
     font-family: monospace;
-    color: white;
+    color:rgb(255, 255, 255);
     padding: 20px;
 }
 
 .end_font_p{
     font-size: 50px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif;
     padding: 10px;
 }
@@ -382,6 +383,11 @@ footer li{
     font-size: 30px;
 }
 
+.end_section_2{
+    text-align: center;
+    background-color: rgb(84, 143, 238);
+    margin-top: 2%;
+}
 
 
 
