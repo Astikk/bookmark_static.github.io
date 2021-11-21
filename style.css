@@ -34,11 +34,16 @@ nav ul{
 nav ul li a{
     text-transform: uppercase;
     letter-spacing: 3px;
+    padding: 6px;
     text-decoration: none;
     color: black;
     font-size: 26px;
    margin: 20px;
    transition: 0.2s ease;
+}
+
+#nature_update{
+    border-bottom: 1px rgb(197, 47, 47) solid;
 }
 
 nav ul li a:hover{
@@ -49,16 +54,16 @@ nav ul li a:hover{
 
 #logo{
     max-width: 100%;
-    height: max-content;
+    height: 40px;
 }
 
 .head_font{
-    font-size: 70px;
+    font-size: 40px;
 }
 
 #Header_img{
     max-width: 100%;
-    height: 700px;
+    height: 500px;
 }
 
 .Head{
@@ -67,7 +72,7 @@ nav ul li a:hover{
 }
 
 .head_font_p{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 header{
@@ -109,12 +114,12 @@ main{
 }
 
 .main_font{
-    font-size: 80px;
+    font-size: 70px;
     color: rgb(22, 20, 59);
 }
 
 .main_font_p{
-    font-size: 34px;
+    font-size: 20px;
     text-align: center;
     width: 50%;
 }
@@ -144,7 +149,7 @@ main{
 
 #main_container_img{
     max-width: 100%;
-    height: 500px;
+    height: 370px;
     margin-left: 6%;
 }
 
@@ -157,11 +162,11 @@ main{
 }
 
 .main_2_font_p{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .main_2_font{
-    font-size: 60px;
+    font-size: 40px;
 }
 
 
@@ -170,14 +175,14 @@ main{
 }
 
 .content_browser_font{
-    font-size: 80px;
+    font-size: 40px;
 }
 
 .content_1{
     text-align: center;
 }
 .content_browser_font_p{
-    font-size: 30px;
+    font-size: 20px;
     margin: 0 auto;
     width: 50%;
     text-align: center;
@@ -192,7 +197,7 @@ main{
 
 .browsers_img{
    max-width: 100%;
-   height: 240px;
+   height: 180px;
 }
 hr{
     border: 1px dotted gainsboro;
@@ -203,7 +208,7 @@ hr{
     box-shadow: 2px 1px 1px rgb(198, 187, 207);
     text-align: center;
     width: 400px;
-    height: 450px;
+    height: 340px;
     border-radius: 4%;
 
 }
@@ -214,16 +219,16 @@ hr{
     box-shadow: 2px 1px 1px rgb(198, 187, 207);
     text-align: center;
     width: 400px;
-    height: 450px;
+    height: 340px;
     border-radius: 4%;
 }
 
 .browser_font{
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .browser_font_P{
-    font-size: 27px;
+    font-size: 20px;
 }
 
 .opera_img{
@@ -232,7 +237,7 @@ hr{
     box-shadow: 2px 1px 1px rgb(198, 187, 207);
     text-align: center;
     width: 400px;
-    height: 450px;
+    height: 340px;
     border-radius: 4%;
 
 }
@@ -264,7 +269,7 @@ hr{
 }
 
 .end_sec_font{
-    font-size: 60px;
+    font-size: 30px;
     padding: 30px;
 }
 
@@ -301,14 +306,14 @@ hr{
 }
 
 .end_font{
-    font-size: 60px;
+    font-size: 30px;
     font-family: monospace;
     color:rgb(255, 255, 255);
     padding: 20px;
 }
 
 .end_font_p{
-    font-size: 50px;
+    font-size: 30px;
     color: rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif;
     padding: 10px;
@@ -326,11 +331,11 @@ hr{
     border-radius: 4%;
     width: 400px;
     height: 50px;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 #search_butn{
-    font-size: 34px;
+    font-size: 23px;
     border: 0px;
     border-radius: 4%;
     width: 200px;
@@ -377,10 +382,10 @@ footer li{
 }
 
 .section_font{
-    font-size: 40px;
+    font-size: 28px;
 }
 .section_font_P{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .end_section_2{
